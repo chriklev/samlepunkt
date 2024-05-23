@@ -1,6 +1,4 @@
-# Samlepunkt
-
-<img src="frontend/static/vibrant_logo.png" width="48">
+# <img src="frontend/static/vibrant_logo.png" width="100"> Samlepunkt
 
 Samlepunkt is an event management website designed to simplify the process of creating, managing, and attending events without relying on social media platforms like Facebook. The website also supports group announcements and invitations, making it easy to organize gatherings and share information.
 
